@@ -7,7 +7,7 @@ ChuiXueCloud 吹雪云机场官网地址</br>
 ```bash
 RRAhwArP
 ```
-## 折扣吗
+## 折扣码/优惠码
 ```bash
 50OFF
 ```
