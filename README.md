@@ -1,5 +1,5 @@
 
-# ChuiXueCloud 吹雪云机场官方地址（2026年07月16日更新）
+# ChuiXueCloud 吹雪云机场官方地址（2026年07月17日更新）
 ChuiXueCloud 吹雪云机场官网地址</br>
 官方地址：[吹雪云.com](https://xn--9kqs1lo79d.com/#/register?code=RRAhwArP)</br>
 ## 邀请码
@@ -8,6 +8,7 @@ ChuiXueCloud 吹雪云机场官网地址</br>
 RRAhwArP
 ```
 ## 折扣码/优惠码
+`已过期`
 ```bash
 50OFF
 ```
