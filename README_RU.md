@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный адрес ChuiXueCloud VPN (обновлено 17 августа 2026)
+# Официальный адрес ChuiXueCloud VPN (обновлено 18 августа 2026)
 
 Адрес официального сайта ChuiXueCloud VPN</br>
 Официальный адрес: [吹雪云.com](https://to.iix.im/cx01)</br>
