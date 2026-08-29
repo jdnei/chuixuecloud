@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# ChuiXueCloud 吹雪云机场官方地址(2026年8月28日更新)
+# ChuiXueCloud 吹雪云机场官方地址(2026年8月29日更新)
 ChuiXueCloud 吹雪云机场官网地址</br>
 官方地址：[吹雪云.com](https://to.iix.im/cx01)</br>
 ## 邀请码
