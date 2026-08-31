@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی ChuiXueCloud VPN (به‌روزرسانی 30 اوت 2026)
+# آدرس رسمی ChuiXueCloud VPN (به‌روزرسانی 31 اوت 2026)
 
 آدرس وب‌سایت رسمی ChuiXueCloud VPN</br>
 آدرس رسمی: [吹雪云.com](https://to.iix.im/cx01)</br>
